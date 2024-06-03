@@ -15,7 +15,7 @@ The app will feature tools to measure environmental impact, discover green lists
 <p float="left">
   <img src="screens/greenlist_logo.png" width="400" height="380" />
   </p>
-## Screens
+# Screens
 <p float="left">
   <img src="screens/7.png" width="200" height="410" />
   <img src="screens/8.png" width="200" height="410" />
@@ -36,6 +36,12 @@ The app will feature tools to measure environmental impact, discover green lists
 
   </p>
 
+## Firebase data
+<p float="left">
+  <img src="screens/17.png" width="400" height="380" />
+  
+  <img src="screens/18.png" width="400" height="380" />
+  </p>
 ## Tools
 - Firebase
 - Firestore
