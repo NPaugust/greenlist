@@ -15,7 +15,9 @@ The app will feature tools to measure environmental impact, discover green lists
 <p float="left">
   <img src="screens/greenlist_logo.png" width="400" height="380" />
   </p>
+  
 # Screens
+
 <p float="left">
   <img src="screens/7.png" width="200" height="410" />
   <img src="screens/8.png" width="200" height="410" />
@@ -36,13 +38,15 @@ The app will feature tools to measure environmental impact, discover green lists
 
   </p>
 
-## Firebase data
+# Firebase data
 <p float="left">
   <img src="screens/17.png" width="400" height="380" />
   
   <img src="screens/18.png" width="400" height="380" />
   </p>
-## Tools
+  
+# Tools
+
 - Firebase
 - Firestore
 - Firebase database
@@ -51,11 +55,12 @@ The app will feature tools to measure environmental impact, discover green lists
 - Database
   
 
-## Video
-
+# Video
 
 https://github.com/NPaugust/greenlist/assets/72886935/eebdbcf2-c8cd-4f68-8421-55ab334608cc
 
+## Google Drive Video
+[Video Record](https://drive.google.com/drive/u/0/folders/1C_EQgyPnndY-jW87Go49djX_aAzTi_8r)
 
 ## Credit
 [Avgustine](https://github.com/NPaugust)
